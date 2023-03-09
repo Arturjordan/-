@@ -1,0 +1,16 @@
+C:\Users\masc-wohs\Desktop\zad1\zad1\bin\Debug\zad1.exe.config
+C:\Users\masc-wohs\Desktop\zad1\zad1\bin\Debug\zad1.exe
+C:\Users\masc-wohs\Desktop\zad1\zad1\bin\Debug\zad1.pdb
+C:\Users\masc-wohs\Desktop\zad1\zad1\obj\Debug\zad1.csproj.AssemblyReference.cache
+C:\Users\masc-wohs\Desktop\zad1\zad1\obj\Debug\zad1.csproj.SuggestedBindingRedirects.cache
+C:\Users\masc-wohs\Desktop\zad1\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+C:\Users\masc-wohs\Desktop\zad1\zad1\obj\Debug\zad1.exe
+C:\Users\masc-wohs\Desktop\zad1\zad1\obj\Debug\zad1.pdb
+D:\VS\Tolochko\day9\zad1\bin\Debug\zad1.exe.config
+D:\VS\Tolochko\day9\zad1\bin\Debug\zad1.exe
+D:\VS\Tolochko\day9\zad1\bin\Debug\zad1.pdb
+D:\VS\Tolochko\day9\zad1\obj\Debug\zad1.csproj.AssemblyReference.cache
+D:\VS\Tolochko\day9\zad1\obj\Debug\zad1.csproj.SuggestedBindingRedirects.cache
+D:\VS\Tolochko\day9\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+D:\VS\Tolochko\day9\zad1\obj\Debug\zad1.exe
+D:\VS\Tolochko\day9\zad1\obj\Debug\zad1.pdb
