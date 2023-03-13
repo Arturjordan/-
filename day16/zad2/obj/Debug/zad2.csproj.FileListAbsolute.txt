@@ -1,0 +1,8 @@
+D:\VS\Tolochko\day16\zad2\bin\Debug\zad2.exe.config
+D:\VS\Tolochko\day16\zad2\bin\Debug\zad2.exe
+D:\VS\Tolochko\day16\zad2\bin\Debug\zad2.pdb
+D:\VS\Tolochko\day16\zad2\obj\Debug\zad2.csproj.AssemblyReference.cache
+D:\VS\Tolochko\day16\zad2\obj\Debug\zad2.csproj.SuggestedBindingRedirects.cache
+D:\VS\Tolochko\day16\zad2\obj\Debug\zad2.csproj.CoreCompileInputs.cache
+D:\VS\Tolochko\day16\zad2\obj\Debug\zad2.exe
+D:\VS\Tolochko\day16\zad2\obj\Debug\zad2.pdb
