@@ -1,0 +1,8 @@
+D:\VS\Tolochko\day18\Practice18\Practice18Zad1\bin\Debug\Practice18Zad1.exe.config
+D:\VS\Tolochko\day18\Practice18\Practice18Zad1\bin\Debug\Practice18Zad1.exe
+D:\VS\Tolochko\day18\Practice18\Practice18Zad1\bin\Debug\Practice18Zad1.pdb
+D:\VS\Tolochko\day18\Practice18\Practice18Zad1\obj\Debug\Practice18Zad1.csproj.AssemblyReference.cache
+D:\VS\Tolochko\day18\Practice18\Practice18Zad1\obj\Debug\Practice18Zad1.csproj.SuggestedBindingRedirects.cache
+D:\VS\Tolochko\day18\Practice18\Practice18Zad1\obj\Debug\Practice18Zad1.csproj.CoreCompileInputs.cache
+D:\VS\Tolochko\day18\Practice18\Practice18Zad1\obj\Debug\Practice18Zad1.exe
+D:\VS\Tolochko\day18\Practice18\Practice18Zad1\obj\Debug\Practice18Zad1.pdb
