@@ -1,0 +1,17 @@
+D:\Проверка GIT\C-Practice-master\Tasks_30\zad2\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+D:\Проверка GIT\C-Practice-master\Tasks_30\zad2\task2\obj\Debug\task2.csproj.SuggestedBindingRedirects.cache
+D:\Проверка GIT\C-Practice-master\Tasks_30\zad2\task2\obj\Debug\task2.Form1.resources
+D:\Проверка GIT\C-Practice-master\Tasks_30\zad2\task2\obj\Debug\task2.Properties.Resources.resources
+D:\Проверка GIT\C-Practice-master\Tasks_30\zad2\task2\obj\Debug\task2.csproj.GenerateResource.cache
+D:\Проверка GIT\C-Practice-master\Tasks_30\zad2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+D:\Проверка GIT\C-Practice-master\Tasks_30\task2\task2\bin\Debug\task2.exe.config
+D:\Проверка GIT\C-Practice-master\Tasks_30\task2\task2\bin\Debug\task2.exe
+D:\Проверка GIT\C-Practice-master\Tasks_30\task2\task2\bin\Debug\task2.pdb
+D:\Проверка GIT\C-Practice-master\Tasks_30\task2\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+D:\Проверка GIT\C-Practice-master\Tasks_30\task2\task2\obj\Debug\task2.csproj.SuggestedBindingRedirects.cache
+D:\Проверка GIT\C-Practice-master\Tasks_30\task2\task2\obj\Debug\task2.Form1.resources
+D:\Проверка GIT\C-Practice-master\Tasks_30\task2\task2\obj\Debug\task2.Properties.Resources.resources
+D:\Проверка GIT\C-Practice-master\Tasks_30\task2\task2\obj\Debug\task2.csproj.GenerateResource.cache
+D:\Проверка GIT\C-Practice-master\Tasks_30\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+D:\Проверка GIT\C-Practice-master\Tasks_30\task2\task2\obj\Debug\task2.exe
+D:\Проверка GIT\C-Practice-master\Tasks_30\task2\task2\obj\Debug\task2.pdb

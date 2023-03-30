@@ -1,0 +1,10 @@
+D:\Проверка GIT\C-Practice-master\Tasks_30\task3\task3\bin\Debug\task3.exe.config
+D:\Проверка GIT\C-Practice-master\Tasks_30\task3\task3\bin\Debug\task3.exe
+D:\Проверка GIT\C-Practice-master\Tasks_30\task3\task3\bin\Debug\task3.pdb
+D:\Проверка GIT\C-Practice-master\Tasks_30\task3\task3\obj\Debug\task3.csproj.AssemblyReference.cache
+D:\Проверка GIT\C-Practice-master\Tasks_30\task3\task3\obj\Debug\task3.csproj.SuggestedBindingRedirects.cache
+D:\Проверка GIT\C-Practice-master\Tasks_30\task3\task3\obj\Debug\task3.Properties.Resources.resources
+D:\Проверка GIT\C-Practice-master\Tasks_30\task3\task3\obj\Debug\task3.csproj.GenerateResource.cache
+D:\Проверка GIT\C-Practice-master\Tasks_30\task3\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+D:\Проверка GIT\C-Practice-master\Tasks_30\task3\task3\obj\Debug\task3.exe
+D:\Проверка GIT\C-Practice-master\Tasks_30\task3\task3\obj\Debug\task3.pdb
